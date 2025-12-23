@@ -30,6 +30,13 @@ The dataset was cleaned and standardised in Microsoft Excel before ingestion int
 
 This ensured analytical accuracy and prevented misleading insights.
 
+Dashboards & Stakeholders
+
+• Sales Manager Dashboard – product performance, profitability, shipping mode analysis  
+• Regional Manager Dashboard – geographic profitability, state-level performance, customer segments  
+
+Each dashboard was designed around stakeholder-specific decision needs rather than generic visualisation.
+
 ⸻
 
  Power BI Reports & Dashboards
